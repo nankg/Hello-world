@@ -1,2 +1,2 @@
-# heoow-world
+# Hello-world
 This is first repository
