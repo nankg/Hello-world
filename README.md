@@ -1,7 +1,4 @@
 # Hello-world
 
-Branch2
-=======
-Branch1.
-
+Branch2.
 
