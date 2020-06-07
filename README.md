@@ -1,2 +1,2 @@
 # Hello-world
-This is first repository
+This is second branch of master repository: Hello-World
