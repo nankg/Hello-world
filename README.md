@@ -1,2 +1,2 @@
 # Hello-world
-This is first repository: Hello World
+This is first (master) repository: Hello World
